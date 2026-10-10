@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "fileName": "ios-calculator.html",
+  "currentVersionId": "4f421296-23a8-4ba1-ab0b-29dc563895b3",
+  "entries": [
+    {
+      "id": "4f421296-23a8-4ba1-ab0b-29dc563895b3",
+      "fileName": "ios-calculator.html",
+      "version": 1,
+      "label": "Version 1",
+      "createdAt": 1791593352307,
+      "source": "ai",
+      "prompt": "ios style calculator",
+      "size": 17307,
+      "mime": "text/html; charset=utf-8",
+      "kind": "html",
+      "contentPath": "0001-4f421296-23a8-4ba1-ab0b-29dc563895b3.html",
+      "contentDigest": "5c495e72a07da50c0637e8f7e7869da9512357b1f6a14cf982232f51a02dc151",
+      "promptSource": "message"
+    }
+  ]
+}

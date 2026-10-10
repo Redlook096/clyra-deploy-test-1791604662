@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "kind": "html",
+  "title": "ios-calculator.html",
+  "entry": "ios-calculator.html",
+  "renderer": "html",
+  "status": "complete",
+  "exports": [
+    "html",
+    "pdf",
+    "zip"
+  ],
+  "createdAt": "2026-10-10T00:48:42.521Z",
+  "updatedAt": "2026-10-10T00:48:42.521Z",
+  "metadata": {
+    "inferred": true,
+    "reconciled": true
+  }
+}
